@@ -71,12 +71,6 @@ Performed **ADF tests** and differencing to ensure stationarity before modeling.
 
 ## 📈 Statistical Modeling
 
-### 🔹 ARIMA Models
-Used ACF/PACF plots to fit univariate ARIMA models:
-- **Inflation:** ARIMA(1, 2, 1)
-- **Interest Rate:** ARIMA(1, 2, 1)
-- **Unemployment:** ARMA(3, 1)
-
 ### 🔹 VAR Model
 Built a **Vector Autoregression (VAR)** using stationary series:
 - `SP500_Return`, `Unemployment_Rate`, `Inflation_Diff2`, `Interest_Rate_Diff2`
