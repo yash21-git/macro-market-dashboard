@@ -108,8 +108,7 @@ All plots saved under the `/charts` folder:
 
 ## 🧾 Deliverables
 - 📁 Jupyter Notebook: `Macromarketdash.ipynb`
-- 🖼️ Visualization Outputs: `/charts/*.jpeg`
-- 🧮 Cleaned Dataset: `macro_data.csv` (optional export)
+- 🖼️ Visualization Outputs: macromarkets.pdf
 - 📜 README.md (this file)
 
 ---
